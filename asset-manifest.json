@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd3d5793.css",
-    "main.js": "/static/js/main.12f898a7.js",
+    "main.css": "/static/css/main.48c888ed.css",
+    "main.js": "/static/js/main.a13ad8b2.js",
     "static/media/debris.gif": "/static/media/debris.8e7e9da99e5d8277cb4f.gif",
     "static/media/digitaltwins.png": "/static/media/digitaltwins.ce88b7ca6639b849263c.png",
     "static/media/concept-of-operations.png": "/static/media/concept-of-operations.df5aceff186014590784.png",
@@ -23,11 +23,11 @@
     "static/media/avik.jpg": "/static/media/avik.de2dc58c1c9855714300.jpg",
     "static/media/skyfall_logo_long.png": "/static/media/skyfall_logo_long.8da117a3828d19116d3e.png",
     "index.html": "/index.html",
-    "main.fd3d5793.css.map": "/static/css/main.fd3d5793.css.map",
-    "main.12f898a7.js.map": "/static/js/main.12f898a7.js.map"
+    "main.48c888ed.css.map": "/static/css/main.48c888ed.css.map",
+    "main.a13ad8b2.js.map": "/static/js/main.a13ad8b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd3d5793.css",
-    "static/js/main.12f898a7.js"
+    "static/css/main.48c888ed.css",
+    "static/js/main.a13ad8b2.js"
   ]
 }
