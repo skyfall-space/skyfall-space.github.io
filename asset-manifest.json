@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5d8ae11.css",
+    "main.css": "/static/css/main.14589a86.css",
     "main.js": "/static/js/main.e96ed555.js",
     "static/media/debris.gif": "/static/media/debris.8e7e9da99e5d8277cb4f.gif",
     "static/media/digitaltwins.png": "/static/media/digitaltwins.ce88b7ca6639b849263c.png",
@@ -23,11 +23,11 @@
     "static/media/avik.jpg": "/static/media/avik.de2dc58c1c9855714300.jpg",
     "static/media/skyfall_logo_long.png": "/static/media/skyfall_logo_long.8da117a3828d19116d3e.png",
     "index.html": "/index.html",
-    "main.d5d8ae11.css.map": "/static/css/main.d5d8ae11.css.map",
+    "main.14589a86.css.map": "/static/css/main.14589a86.css.map",
     "main.e96ed555.js.map": "/static/js/main.e96ed555.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5d8ae11.css",
+    "static/css/main.14589a86.css",
     "static/js/main.e96ed555.js"
   ]
 }
