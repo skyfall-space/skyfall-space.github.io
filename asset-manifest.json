@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.2bcad2b1.css",
-    "main.js": "/static/js/main.0cc13bf3.js",
+    "main.css": "/static/css/main.c5353c09.css",
+    "main.js": "/static/js/main.11ddf7ab.js",
     "static/media/debris.gif": "/static/media/debris.8e7e9da99e5d8277cb4f.gif",
+    "static/media/jason.png": "/static/media/jason.bed428745ec3d35db78c.png",
     "static/media/digitaltwins.png": "/static/media/digitaltwins.ce88b7ca6639b849263c.png",
-    "static/media/concept-of-operations.png": "/static/media/concept-of-operations.df5aceff186014590784.png",
     "static/media/jamie.jpg": "/static/media/jamie.c69d5dc5ce13187906c8.jpg",
+    "static/media/concept-of-operations.png": "/static/media/concept-of-operations.df9868e6698f907c363e.png",
     "static/media/Brandon.png": "/static/media/Brandon.b76372b6f7a45045c0d1.png",
     "static/media/theodore.png": "/static/media/theodore.3db2e21fd1cabd2998c9.png",
     "static/media/nathan.png": "/static/media/nathan.28e6bea62012a544a264.png",
@@ -16,18 +17,19 @@
     "static/media/ben.png": "/static/media/ben.56aea79e3f55cdc9bf29.png",
     "static/media/abdi.png": "/static/media/abdi.8052c04f9c69e14ad78a.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/jackie.jpg": "/static/media/jackie.4787d0b26466e43b7f2c.jpg",
+    "static/media/jackie.jpg": "/static/media/jackie.183526f15f6fff52a265.jpg",
+    "static/media/grant.png": "/static/media/grant.17f4b3dcd2d1520c8547.png",
     "static/media/miguel.jpg": "/static/media/miguel.2e3b29ad4646d3202036.jpg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/avik.jpg": "/static/media/avik.de2dc58c1c9855714300.jpg",
     "static/media/skyfall_logo_long.png": "/static/media/skyfall_logo_long.8da117a3828d19116d3e.png",
     "index.html": "/index.html",
-    "main.2bcad2b1.css.map": "/static/css/main.2bcad2b1.css.map",
-    "main.0cc13bf3.js.map": "/static/js/main.0cc13bf3.js.map"
+    "main.c5353c09.css.map": "/static/css/main.c5353c09.css.map",
+    "main.11ddf7ab.js.map": "/static/js/main.11ddf7ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bcad2b1.css",
-    "static/js/main.0cc13bf3.js"
+    "static/css/main.c5353c09.css",
+    "static/js/main.11ddf7ab.js"
   ]
 }
